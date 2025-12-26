@@ -1,1 +1,11 @@
-hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+echo "git init command will creates local repo inside the folder , and it will create 3 areas"
+echo "working area/untracked files"
+echo "staging area/ completely developed files will be pushed to stagging area"
+echo "to push from working area to stagging area we can make use of git add . , git add * , git add *.javafiles"
+echo "we have to execute this 2 commands before configguring the file and those details will stored in .git config , that can be checked by  >    git config --global --list"
+echo "git config --global user.name   , git config --global user.mail"
+echo "from stagging to local repo we need to push with , git -m "message""
+echo "from local to remote repo we need to push with git remote add alias name repourlfromgit"
+echo "git remote -v - to check what all the remote urls synced/added to local repo"
+echo "we need to create on pat token as a passrd , from seetings-developersettings-tokenclasic"
+
