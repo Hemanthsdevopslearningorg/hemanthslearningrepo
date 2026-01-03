@@ -1,0 +1,5 @@
+hi this is to check revert example
+echo "git reset will bring back changes from stagging to working area"
+echo "git revert will bring back changes from remote to working"
+but we have to push changes after git revert in local
+echo "ex: git revert commitid"
